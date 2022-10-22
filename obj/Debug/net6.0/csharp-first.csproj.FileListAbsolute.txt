@@ -1,0 +1,15 @@
+C:\Users\jenni\mycode\csharp-first\bin\Debug\net6.0\csharp-first.exe
+C:\Users\jenni\mycode\csharp-first\bin\Debug\net6.0\csharp-first.deps.json
+C:\Users\jenni\mycode\csharp-first\bin\Debug\net6.0\csharp-first.runtimeconfig.json
+C:\Users\jenni\mycode\csharp-first\bin\Debug\net6.0\csharp-first.dll
+C:\Users\jenni\mycode\csharp-first\bin\Debug\net6.0\csharp-first.pdb
+C:\Users\jenni\mycode\csharp-first\obj\Debug\net6.0\csharp-first.csproj.AssemblyReference.cache
+C:\Users\jenni\mycode\csharp-first\obj\Debug\net6.0\csharp-first.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenni\mycode\csharp-first\obj\Debug\net6.0\csharp-first.AssemblyInfoInputs.cache
+C:\Users\jenni\mycode\csharp-first\obj\Debug\net6.0\csharp-first.AssemblyInfo.cs
+C:\Users\jenni\mycode\csharp-first\obj\Debug\net6.0\csharp-first.csproj.CoreCompileInputs.cache
+C:\Users\jenni\mycode\csharp-first\obj\Debug\net6.0\csharp-first.dll
+C:\Users\jenni\mycode\csharp-first\obj\Debug\net6.0\refint\csharp-first.dll
+C:\Users\jenni\mycode\csharp-first\obj\Debug\net6.0\csharp-first.pdb
+C:\Users\jenni\mycode\csharp-first\obj\Debug\net6.0\csharp-first.genruntimeconfig.cache
+C:\Users\jenni\mycode\csharp-first\obj\Debug\net6.0\ref\csharp-first.dll
