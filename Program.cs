@@ -43,11 +43,15 @@ namespace HelloWorld
     }
     static void Main(string[] args)
     {
-      string writeText="Hello Jennifer";
+      string writeText="Hello Jennifer Cathy Liz";
       File.WriteAllText("jennifernote.txt",writeText);
 
       string readText = File.ReadAllText("jennifernote.txt");
       Console.WriteLine(readText);
+
+      int  charPos = writeText.IndexOf('z');
+      string lastFriend = charPos>0? writeText.Substring(charPos):"No friends";
+ Console.WriteLine("Do you have friends?" + lastFriend);
 
       Console.WriteLine("Sqrt(64)"+ Math.Sqrt(64)+" Level " + Level.Medium);
       Console.WriteLine("Hello Jennifer!" + "new Return is"+  addThree(5));
@@ -63,4 +67,5 @@ namespace HelloWorld
        }
     }
   }
+  
 }

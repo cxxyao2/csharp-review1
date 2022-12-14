@@ -3,6 +3,11 @@
 ## c#
 
 - Microservices, RESTful API
+- Run app:
+
+```
+> dotnet run
+```
 
 ## Docker
 
